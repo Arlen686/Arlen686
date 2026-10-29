@@ -41,10 +41,4 @@ Um dos meus projetos pessoais, desenvolvido como parte da minha jornada de apren
 
 ---
 
-## 🔗 Onde me encontrar
-
-- 🐙 [GitHub](https://github.com/Arlen686)
-
----
-
 <p align="center"><i>Aprender, construir, testar e evoluir.</i></p>
