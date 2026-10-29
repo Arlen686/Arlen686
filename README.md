@@ -33,13 +33,10 @@ Um dos meus projetos pessoais, desenvolvido como parte da minha jornada de apren
 
 ## 📊 Estatísticas do GitHub
 
-<p align="center">
-  <img height="165" src="https://github-stats-extended.vercel.app/api?username=Arlen686&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub de Arlen686" />
-  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Arlen686&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Linguagens mais presentes nos repositórios de Arlen686" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Arlen686&theme=tokyonight&hide_border=true&locale=pt_BR" alt="Sequência de contribuições de Arlen686" />
+<p align="center" width="100%">
+  <img width="32%" height="160" src="https://github-stats-extended.vercel.app/api?username=Arlen686&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub de Arlen686" />
+  <img width="32%" height="160" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Arlen686&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Linguagens mais presentes nos repositórios de Arlen686" />
+  <img width="32%" height="160" src="https://streak-stats.demolab.com/?user=Arlen686&theme=tokyonight&hide_border=true&locale=pt_BR" alt="Sequência de contribuições de Arlen686" />
 </p>
 
 ---
